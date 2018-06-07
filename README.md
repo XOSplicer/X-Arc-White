@@ -5,26 +5,27 @@ I apologise to anyone who feels disappointed about this decision, it was one tha
 If you'd like to continue this project, please either add a pull request or Fork it.
 
 kind regards
-##
+-----
 ![](https://github.com/LinxGem33/Neon/blob/master/artwork/osx-arc-wide-banner1.png?raw=true)
 
-##
+-----
 ![](https://cn.pling.com/img/4/7/5/0/8c43c7300506520877db93f40e16f68005e8.png)
 
 |OSX Arc Plus|OSX Arc Darker|OSX Arc Shadow|
 |:-----:|:-----:|:-----:|
 |![](https://github.com/LinxGem33/Arc-Menu/blob/master/screenshots/osxp.png?raw=true)|![](https://cn.pling.com/img/b/c/1/9/2663fe7724cdbe48087bf8ffb61ef33d9270.png)|![](https://cn.pling.com/img/4/e/e/e/7aa33dbf66b684e7ca882318e6b400acd1b5.png)|
 |Click image to enlarge|Click image to enlarge|Click image to enlarge|Click image to enlarge|
-##
+
+-----
 ### Introduction
 
 OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, ~~Budgie~~, Pantheon, XFCE, Mate, etc.
-## 
+-----
 ### Installation
 
 Latest stable & beta releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-White/releases)
 
-##
+-----
 
 ### Packages
 
@@ -34,7 +35,7 @@ Ubuntu & Debian based distributions can now install the newly created Debian pac
 
 > [osx-arc-collection_1.4.7_i386.deb](https://github.com/LinxGem33/OSX-Arc-White/releases)
 
-##
+-----
 
 Arch Linux users can install from the [AUR](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
 
@@ -62,7 +63,7 @@ packer -S osx-arc-darker
 
 packer -S osx-arc-shadow
 ```
-##
+-----
 
 
 | Supported Desktop Enviroments  | Supported GTK version | Supported OS version  |
@@ -79,9 +80,7 @@ packer -S osx-arc-shadow
 |  * `Unity (7.4 or later)`|
 |  * `Xfce`|                 
 
-
-  
-##
+-----
 
 ### Manual Installation
 
@@ -96,7 +95,7 @@ or ~/.themes (create it (in your home folder) if necessary);
 
 After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Window/GTK+ theme and `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Gnome Shell/Cinnamon theme.
 
-##
+-----
 
 ### System Requirements
 
@@ -112,7 +111,7 @@ For the theme to function properly, install the following
   * `gtk2-engine-murrine` (openSUSE)
   * `gtk-engines-murrine` (Gentoo)
 
-## 
+----- 
 
 ### Uninstall
 
@@ -128,11 +127,11 @@ Run (As Local User)
     
     rm -rf ~/.themes/{OSX-Arc-White,OSX-Arc-Darker,OSX-Arc-Shadow}
 
-## 
+-----
 
 ### Work in progress!
 
-## 
+----- 
 
 ### Extra's
 
@@ -152,7 +151,7 @@ Now open the Plank preferences window by executing `plank --preferences` from a 
 ### Arc-Dark for Ubuntu Software Center
 The Arc Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/arc-dark-software-center). It solves readability issues with Arc Dark and the Ubuntu Software Center.
 
-## 
+-----
 
 ### Troubleshooting
 
@@ -163,27 +162,25 @@ This is also true for other distros with a different GTK/Gnome version than the 
 If you get artifacts like black or invisible backgrounds under Unity, disable overlay scrollbars with
 
     gsettings set com.canonical.desktop.interface scrollbar-mode normal
-
-
-## 
+----- 
 
 ### Bugs
 
 Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-White/issues) on the Github issues page.
 
-## 
+-----
 
 ### License & Terms ![](https://github.com/LinxGem33/IP-Finder/blob/master/screens/Copyleft-16.png?raw=true)
 
 OSX-Arc Collection is available under the terms of the GPL-3.0 license See [`COPYING`](https://github.com/LinxGem33/OSX-Arc-White/blob/master/COPYING) for details.
 
-## 
+-----
 
 ### Contributions & Suggestions
 
 Any suggestions for features and contributions to the continuing code development can be made via the issue tracker or code contributions via a pull request.
 
-## 
+-----
 
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
